@@ -137,4 +137,3 @@ use:created linked list of symbol and literal.
 33]writeFile
 input:FILE pointer(of the writing file),struct ele pointer(head pointer of linked list of symbol),struct eleL pointer(head pointer of linked list of literal).
 use:to write the file according to linked list of symbol and literal.
-
