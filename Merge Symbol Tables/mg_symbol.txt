@@ -1,0 +1,6 @@
+a	0	data	double	4	4	D
+b	4	data	byte	"hi there have a good day",10,0	18	D
+c	0	bss	byte	NULL	5	D
+main	0	text	label	NULL	0	D
+xyz	4	text	label	NULL	0	D
+pqr	20	text	label	NULL	0	U

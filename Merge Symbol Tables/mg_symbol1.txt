@@ -1,0 +1,4 @@
+a	0	data	double	4	4	D
+b	4	data	byte	"have a nice day",10,0	18	D
+c	22	data	byte	10,20,30	12	D
+pqr	0	text	label	NULL	0	D

@@ -1,0 +1,21 @@
+Name	NewName	ADDRESS	SECTION	TYPE	SIZE	DEF	VALUE
+
+a		0	data	double	4	D	4
+
+b		4	data	byte	18	D	"hi there have a good day",10,18
+
+a	a_new	22	data	double	4	D	4
+
+b	b_new	26	data	byte	18	D	"have a nice day",10,0
+
+c		44	data	byte	12	D	10,20,30
+
+c		0	bss	byte	5	D	NULL
+
+main		0	text	label	0	D	NULL
+
+xyz		4	text	label	0	D	NULL
+
+pqr		20	text	label	0	U	NULL
+
+pqr	pqr_new	40	text	label	0	D	NULL
