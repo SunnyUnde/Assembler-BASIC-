@@ -1,5 +1,5 @@
 # Assembler-BASIC-
-Contains code for basic assembler:
-1] Symbol Table.
-2]Merge 2 Symbol Table
-3]Error Detection
+## Contains code for basic assembler:(Similar to working of NASM)
+* Symbol Table.
+* Merge 2 Symbol Table
+* Error Detection
